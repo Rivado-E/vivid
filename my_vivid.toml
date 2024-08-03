@@ -9,7 +9,7 @@ vivid_fg_delimiter = "#ADBDB0"
 bg = "NONE" 
 
 alt_fg = "#a4a4a4"
-alt_bg = "#252525"
+alt_bg = "NONE"
 
 vivid_grey = "#7E7E80"
 vivid_green = "#AECDAF"
